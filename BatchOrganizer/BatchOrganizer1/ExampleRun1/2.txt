@@ -1,0 +1,6 @@
+file1.exe
+file2.dds
+file3.png
+
+
+file6.fbx
