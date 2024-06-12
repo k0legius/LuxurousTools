@@ -1,0 +1,1 @@
+python script.py Folders.txt model.txt texture.txt workfiles.txt finished.txt
